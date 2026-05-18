@@ -1,8 +1,8 @@
 👋 Hey,
 
-I build backend applications using ASP.NET Core with a focus on clean architecture, scalability, and automation.
+I build Full-Stack applications using ASP.NET Core and React with a focus on clean architecture, scalability, and automation.
 
-⚙️ ASP.NET Core enthusiast  
-☁️ Exploring Azure & Docker  
-🚀 Building APIs
+⚙️ ASP.NET Core enthusiast
+☁️ Exploring Azure & Docker
+🚀 Building APIs and UIs
 📚 Always learning
