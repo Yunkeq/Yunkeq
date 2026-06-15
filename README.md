@@ -20,14 +20,7 @@ I enjoy working across the whole stack: designing a clean database schema, build
 - 🏗️ I care about writing code that's clean, testable, and maintainable — not just code that works
 - 🌍 Experience taking a project from an idea all the way to a live, actively used product
 - 🤝 Comfortable working with both technical teams and non-technical stakeholders
-- 📚 Always learning — currently deepening my knowledge of system design and cloud infrastructure
-
-<div align="center">
-
-![Open to Work](https://img.shields.io/badge/Status-Open_to_Junior_Roles-brightgreen?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Poland-blue?style=for-the-badge)
-
-</div>
+- 📚 Always learning — currently deepening my knowledge of cloud infrastructure and marketing
 
 ## 🛠️ Tech Stack
 
