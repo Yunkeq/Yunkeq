@@ -11,7 +11,6 @@
 <br>
 
 ## 👋 About Me
-**`Young talent`**
 
 I'm a **.Net/Full-Stack Developer** and final-year technical college student based in **Poland**. I got into programming by building things I actually wanted to use, and that's still how I learn best — pick a real problem, then figure out everything needed to solve it properly.
 
@@ -45,7 +44,7 @@ I enjoy working across the whole stack: designing a clean database schema, build
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 
 **DevOps & Tools**
 
@@ -53,12 +52,6 @@ I enjoy working across the whole stack: designing a clean database schema, build
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Serilog & Seq](https://img.shields.io/badge/Serilog_%26_Seq-2F4F4F?style=for-the-badge)
-
-**Architecture & Practices**
-
-`Clean Architecture` · `CQRS` · `REST APIs` · `Unit & Integration Testing`
 
 ## 📫 Let's Connect
 
