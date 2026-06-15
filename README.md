@@ -22,7 +22,6 @@ I enjoy working across the whole stack: designing a clean database schema, build
 - 🌍 Experience taking a project from an idea all the way to a live, actively used product
 - 🤝 Comfortable working with both technical teams and non-technical stakeholders
 - 📚 Always learning — currently deepening my knowledge of system design and cloud infrastructure
-- 🎯 Looking for a **junior developer role** where I can contribute from day one and grow alongside experienced engineers
 
 <div align="center">
 
@@ -30,20 +29,6 @@ I enjoy working across the whole stack: designing a clean database schema, build
 ![Location](https://img.shields.io/badge/Location-Poland-blue?style=for-the-badge)
 
 </div>
-
-<!-- ## 👋 About Me
-
-I'm a **self-taught full-stack developer** and final-year technical college student based in **Poland**.
-
-I designed, built, and deployed a **production web application now used daily by 600+ students and staff** — and I'm currently working on bringing it to other schools too.
-
-I'm comfortable owning a feature **end-to-end**: database schema → ASP.NET Core API → React UI → cloud deployment.
-
-- 🚀 Shipped a real product with **600+ daily active users**
-- 🏗️ End-to-end ownership — data layer, API, UI, and deployment
-- 📈 Currently working on commercializing the product for other schools
-- 🤝 Comfortable collaborating with both engineers and non-technical stakeholders
-- 🎯 Looking for a **junior developer role** to ship real features and grow alongside experienced engineers -->
 
 ## 🛠️ Tech Stack
 
@@ -79,7 +64,7 @@ I'm comfortable owning a feature **end-to-end**: database schema → ASP.NET Cor
 
 <div align="center">
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mikhail-navumchyk/))
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-navumchyk/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navumchyk.m@gmail.com)
 
 📍 Poland
