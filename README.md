@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="header banner"/>
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=.NET/Full-Stack+Developer;ASP.NET+Core+%2B+React;;Open+to+Developer+Roles" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=.NET/Full-Stack+Developer;ASP.NET+Core+%2B+React;Devops+Enjoyer;Open+to+Developer+Roles" alt="Typing SVG"/>
 </a>
 
 </div>
