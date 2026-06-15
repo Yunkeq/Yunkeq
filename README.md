@@ -16,11 +16,11 @@ I'm a **.Net/Full-Stack Developer** and final-year technical college student bas
 
 I enjoy working across the whole stack: designing a clean database schema, building a well-structured **ASP.NET Core** API, putting together a **React** front-end, and deploying the result to a real server. Seeing the full picture — from data model to deployed product — is what I find most rewarding about development.
 
-- 🧠 Self-taught and curious — comfortable picking up new tools and technologies as needed
-- 🏗️ I care about writing code that's clean, testable, and maintainable — not just code that works
-- 🌍 Experience taking a project from an idea all the way to a live, actively used product
-- 🤝 Comfortable working with both technical teams and non-technical stakeholders
-- 📚 Always learning — currently deepening my knowledge of cloud infrastructure and marketing
+-  Self-taught and curious — comfortable picking up new tools and technologies as needed
+-  I care about writing code that's clean, testable, and maintainable — not just code that works
+-  Experience taking a project from an idea all the way to a live, actively used product
+-  Comfortable working with both technical teams and non-technical stakeholders
+-  Always learning — currently deepening my knowledge of cloud infrastructure and marketing
 
 ## 🛠️ Tech Stack
 
