@@ -1,16 +1,9 @@
-<!--
-  Quick setup checklist:
-  1) Replace the LinkedIn URL below with your real profile link
-  2) Replace the email in the "mailto:" link with your real address
-  3) Tweak the highlight bullets / tagline lines to match your voice
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="header banner"/>
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Self-Taught+Full-Stack+Developer;ASP.NET+Core+%2B+React;Built+%26+Shipped+a+Production+App;Used+Daily+by+600%2B+Students+%26+Staff;Open+to+Junior+Developer+Roles" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=.NET/Full-Stack+Developer;ASP.NET+Core+%2B+React;;Open+to+Developer+Roles" alt="Typing SVG"/>
 </a>
 
 </div>
@@ -18,6 +11,27 @@
 <br>
 
 ## 👋 About Me
+**`Young talent`**
+
+I'm a **.Net/Full-Stack Developer** and final-year technical college student based in **Poland**. I got into programming by building things I actually wanted to use, and that's still how I learn best — pick a real problem, then figure out everything needed to solve it properly.
+
+I enjoy working across the whole stack: designing a clean database schema, building a well-structured **ASP.NET Core** API, putting together a **React** front-end, and deploying the result to a real server. Seeing the full picture — from data model to deployed product — is what I find most rewarding about development.
+
+- 🧠 Self-taught and curious — comfortable picking up new tools and technologies as needed
+- 🏗️ I care about writing code that's clean, testable, and maintainable — not just code that works
+- 🌍 Experience taking a project from an idea all the way to a live, actively used product
+- 🤝 Comfortable working with both technical teams and non-technical stakeholders
+- 📚 Always learning — currently deepening my knowledge of system design and cloud infrastructure
+- 🎯 Looking for a **junior developer role** where I can contribute from day one and grow alongside experienced engineers
+
+<div align="center">
+
+![Open to Work](https://img.shields.io/badge/Status-Open_to_Junior_Roles-brightgreen?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Poland-blue?style=for-the-badge)
+
+</div>
+
+<!-- ## 👋 About Me
 
 I'm a **self-taught full-stack developer** and final-year technical college student based in **Poland**.
 
@@ -29,7 +43,7 @@ I'm comfortable owning a feature **end-to-end**: database schema → ASP.NET Cor
 - 🏗️ End-to-end ownership — data layer, API, UI, and deployment
 - 📈 Currently working on commercializing the product for other schools
 - 🤝 Comfortable collaborating with both engineers and non-technical stakeholders
-- 🎯 Looking for a **junior developer role** to ship real features and grow alongside experienced engineers
+- 🎯 Looking for a **junior developer role** to ship real features and grow alongside experienced engineers -->
 
 ## 🛠️ Tech Stack
 
@@ -59,14 +73,14 @@ I'm comfortable owning a feature **end-to-end**: database schema → ASP.NET Cor
 
 **Architecture & Practices**
 
-`Clean Architecture` · `CQRS` · `REST APIs` · `JWT Authentication` · `Unit & Integration Testing`
+`Clean Architecture` · `CQRS` · `REST APIs` · `Unit & Integration Testing`
 
 ## 📫 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mikhail-navumchyk/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navumchyk.m@gmail.com)
 
 📍 Poland
 
